@@ -1,0 +1,9 @@
+*   94e6d0d Resolution conflit et fusion finale
+|\  
+| * bce1da5 Modification premiere ligne pour conflit
+| * 2937338 Simulation de Pull Request et commentaire
+| * 9fb7203 Ajout section competences
+* | d5f2fc3 Modification profil principal
+|/  
+* d86dee3 Ajout du fichier issue pour la section competences
+* 388d8d5 Initialisation du portfolio
